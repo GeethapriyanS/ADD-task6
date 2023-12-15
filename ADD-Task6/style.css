@@ -1,0 +1,24 @@
+#animatedSquare {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(15, 61, 199);
+    position: absolute;
+    transition: transform 2s ease-in-out;
+  }
+  #animatedSquare2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(15, 199, 131);
+    position: absolute;
+    transition: transform 2s ease-in-out;
+    
+  }
+  button{
+      color: rgb(62, 18, 237);
+      background-color: rgb(246, 249, 252);
+      padding: auto;
+  }
+  h1{
+  
+      color: rgb(239, 56, 56);
+  }
